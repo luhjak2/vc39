@@ -1,5 +1,5 @@
 # Version control group 39 cmpinf10
-Group members: Ting Dong ad Jack Napolitan
+Group members: Ting Dong and Jack Napolitan
 
 ## Description:
 the program will ask user for the input of their name, and ask "how is your day today".
